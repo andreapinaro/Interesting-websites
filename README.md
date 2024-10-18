@@ -1,7 +1,7 @@
-# WEBS INTERESANTES
+**WEBS INTERESANTES**
 
-I compile and update the web sites I use regularly
+*I compile and update the web sites I use regularly*
 
-## TO DO
+**TO DO**
  - Iconify: https://iconify.design/
  - FreeIcons: https://fontawesome.com/
