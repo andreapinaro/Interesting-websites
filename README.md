@@ -5,3 +5,4 @@
 **TO DO**
  - Iconify: https://iconify.design/
  - FreeIcons: https://fontawesome.com/
+ - Skillicons: https://skillicons.dev/
